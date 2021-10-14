@@ -4,7 +4,7 @@
 2. For unoffical boards, set "a = arduino(port,board)" to connect the board to MATLAB. Check Device Manager - Ports (COM & LPT) list to determine the exact port connection.
 3. Run the script, Blink.m; you should see that the on-board LED near port 13 starts to blink.
 ### Check Connection between Arduino and Servo
-1. Connect an FS5106B servo motor to Arduino hardware,
+1. Connect a servo motor to Arduino hardware,
     - Connect the power wire (usually red) to the 5V pin.
     - Connect the ground wire (usually black) to the ground pin.
     - Connect the signal wire (usually orange) to a digital pin.

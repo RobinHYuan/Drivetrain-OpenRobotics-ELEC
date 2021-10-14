@@ -10,3 +10,5 @@
     - Connect the signal wire (usually orange) to a digital pin.
 2. Include the servo library and set the pin and the pulse width based on the model of the servo motor
 3. Run the script; the terminal should provide the current postion of the servo motor
+### Reference 
+[MATLAB Tutorial on Arduino] https://www.mathworks.com/help/supportpkg/arduinoio/get-started-with-matlab-support-package-for-arduino-hardware.html

@@ -1,5 +1,6 @@
-### UBC OpenRobotics- ELEC Drivetrain
+# UBC OpenRobotics- ELEC Drivetrain
 
+## Power Rating Summary
 ### AM-BD3270AN-1212 Motor Power Consumption
 | Description | Value |
 | --- | --- |
@@ -19,6 +20,7 @@
 | 3-phase Output Voltage| 5V|
 | 3-phase Output Current| 2mA|
 | 3-phase Output Duty Ratio| 50%|
+
 ### References 
 [Product Manual for AM-BD3270AN-1212 Motor ](https://drive.google.com/file/d/127hUP0laDbIMEsZlSjKAdmyggv5-bdQt/view?usp=sharing)
 

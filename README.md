@@ -8,7 +8,7 @@
 | No load current| 355 mA|
 |Rated Current| 3 A|
 |Rated Power| 29.9 W|
-|starting Current| 52.174 A |
+|Starting Current| 52.174 A |
 ### AM-BD3270AN-1212 Motor Control Signal
 | Description | Value |
 | --- | --- |
@@ -21,6 +21,8 @@
 | 3-phase Output Duty Ratio| 50%|
 ### References 
 [Product Manual for AM-BD3270AN-1212 Motor ](https://drive.google.com/file/d/127hUP0laDbIMEsZlSjKAdmyggv5-bdQt/view?usp=sharing)
+
+[Product Sheet for AM-BD3270AN-1212 Motor ](https://assunmotor.com/upload/2020/12/14/AM-BD3270AN.pdf)
 
 [Product Manual for AM-EN2211-S003 Encoder](https://drive.google.com/file/d/1TwH5kaLJnqYgKdwhgoz-1PcJZo3J1Jjw/view?usp=sharing)
 

@@ -19,17 +19,22 @@
 | High Voltage Input  | (2.2 V, 5 V)|
 | PWM Frequency | (20 kHz, 25 kHz) |
 | Recommended PWM Duty Ratio| (0%, 5%) U (5%, 100%)|
-| Frequency Generator Pulse Output Voltage| 5 V|
+| Frequency Generator Pulse Output Voltage| 5 |
 | Frequency Generator Pulse Current| 2 mA|
 | Frequency Generator Pulse Duty Ratio| 50%|
+
+### AM-EN2211-S003-0032 Encoder General Parameters
+| Description | Value |
+| --- | --- |
+| Max Working Frequency | 20 kHz|
+| Power Vcc |  5 V|
+| Max Output Current| 1.5 mA|
 
 ### Arduino Mega 2560 General Parameters
 | Description | Value |
 | --- | --- |
 | (Min, Max) Voltage| (6 V, 20 V)|
 | Max Output Current| 40 mA|
-
-### AM-EN2211-S003-0032 Encoder General Parameters
 
 ------------
 

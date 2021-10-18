@@ -1,5 +1,7 @@
 # UBC OpenRobotics- ELEC Drivetrain
 
+------------
+
 ## Power Rating Summary
 ### AM-BD3270AN-1212 Motor Power Consumption Parameters
 | Description | Value |
@@ -28,7 +30,9 @@
 | Power Vcc |  5 V|
 | Max Output Current| 1.5mA|
 
-### References 
+------------
+
+## References 
 
 [Schemetic](https://drive.google.com/file/d/1gvRrunMrfIgrd44gPXehk8m-6w3Fgvar/view?usp=sharing)
 

@@ -17,16 +17,22 @@
 | High Voltage Input  | (2.2 V, 5 V)|
 | PWM Frequency | (20 kHz, 25 kHz) |
 | Recommended PWM Duty Ratio| (0%, 5%) U (5%, 100%)|
-| 3-phase Output Voltage| 5V|
-| 3-phase Output Current| 2mA|
-| 3-phase Output Duty Ratio| 50%|
+| Frequency Generator Pulse Output Voltage| 5V|
+| Frequency Generator Pulse Current| 2mA|
+| Frequency Generator Pulse Duty Ratio| 50%|
 
-### References 
+### AM-EN2211-S003-0032 Encoder Parameters
+| Description | Value |
+| --- | --- |
+| Max Working Frequency | 20 kHz|
+| Power Vcc |  5 V|
+| Max Output Current| 1.5mA|
+### References |
 [Product Manual for AM-BD3270AN-1212 Motor ](https://drive.google.com/file/d/127hUP0laDbIMEsZlSjKAdmyggv5-bdQt/view?usp=sharing)
 
 [Product Sheet for AM-BD3270AN-1212 Motor ](https://assunmotor.com/upload/2020/12/14/AM-BD3270AN.pdf)
 
-[Product Manual for AM-EN2211-S003 Encoder](https://drive.google.com/file/d/1TwH5kaLJnqYgKdwhgoz-1PcJZo3J1Jjw/view?usp=sharing)
+[Product Manual for AM-EN2211-S003-0032 Encoder](https://drive.google.com/file/d/1TwH5kaLJnqYgKdwhgoz-1PcJZo3J1Jjw/view?usp=sharing)
 
 [Datasheet for ATmega2560 MCU](https://drive.google.com/file/d/1LqwjEczHJ5k6KgwA2kvDhqcOdoVWJTK8/view?usp=sharing) 
 

@@ -23,12 +23,13 @@
 | Frequency Generator Pulse Current| 2mA|
 | Frequency Generator Pulse Duty Ratio| 50%|
 
-### AM-EN2211-S003-0032 Encoder General Parameters
+### Arduino Mega 2560 General Parameters
 | Description | Value |
 | --- | --- |
-| Max Working Frequency | 20 kHz|
-| Power Vcc |  5 V|
-| Max Output Current| 1.5mA|
+| (Min, Max) Voltage| (6 V, 20V)|
+| Max Output Current| 40mA|
+
+### AM-EN2211-S003-0032 Encoder General Parameters
 
 ------------
 

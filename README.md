@@ -1,6 +1,8 @@
 ### UBC OpenRobotics- ELEC Drivetrain
 
 ### AM-BD3270AN-1212 Motor Power Consumption
+| Description | Value |
+| --- | --- |
 | Rated Voltage  | 12v |
 | (Min, Max) Voltage  | (10v,28v) |  
 | No load current| 355mA|
